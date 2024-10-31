@@ -59,7 +59,7 @@
                 android:layout_marginEnd="32dp"
                 android:layout_marginBottom="16dp"
                 android:layout_gravity="bottom|start"
-                android:text="Navega tus álbumes preferidos"
+                android:text="@string/copy_navega_tus_lbumes_preferidos"
                 android:textColor="@color/white"
                 android:textSize="16sp"/>
 
